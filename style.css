@@ -1,0 +1,25 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+#marqueeStyle{
+  direction:right;
+  height:100px;
+  color: skyblue;
+  font-size:120%;
+}
+input
+{
+    background: blue
+}
+background{
+     text-align: center;
+}
+.campuslife{
+    display:inline;
+}
+#image{
+    height: auto;
+    width: 100%;
+}
